@@ -99,13 +99,18 @@ I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)]
 
 ---
 
+## ⚡ Connect via Terminal  
+
+```bash
+npx maaz_hasan
+```
+👉 Find the CLI here: **[npx maaz_hasan](https://github.com/Maaz882/business-card)**
 
 ## 🌐 Connect with me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=Maaz_2003_)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maaz-hasan-8a845224a/)
 ![GitHub followers](https://shields.io/github/followers/Maaz882?label=Follow&style=social)
-<!-- [![website](https://img.shields.io/badge/Portfolio-%23009688.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-topaz-tau-21.vercel.app/)](https://portfolio-topaz-tau-21.vercel.app/) -->
 
 
 
