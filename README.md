@@ -8,20 +8,12 @@ I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)]
 <details>
 
 <summary><b style="font-size:22px">👨🏻‍💻 About Me </b></summary> 
-<br/>
-<ul>
-<li>🚀 I craft modern, scalable applications with <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b> </li> 
-<li>💡 I enjoy building practical ML systems <br>(computer vision, reinforcement learning)</br> and full-stack prototypes that make research usable.</li> 
-<li>📊 Worked on <b>API design</b>, <b>system architecture</b>, and <b>ML workflows</b> (using libraries like scikit-learn)  </li>
-<li>🌱 Currently exploring <b>Generative AI</b>, and <b>Agentic AI</b> </li> 
-<li>🤝 Strong believer in <b>open-source collaboration</b> and building tools that solve real-world problems.</li> 
-
-</ul>
-
-<p>I believe in writing clean, efficient, and maintainable code — and I’m always excited to push the boundaries of what technology can achieve. </p>
-</details>
- 
-
+<br/> 
+<ul> 
+<li>🚀 I build modern, scalable ML & computer vision systems with <b>Python</b>, <b>PyTorch</b>, and <b>OpenCV</b></li> 
+<li>💡 I enjoy creating practical ML solutions <br>(computer vision, reinforcement learning)</br> and full-stack prototypes that make research usable.</li> 
+<li>💼 Currently a <b>Software Engineering Intern</b> at the <b>National Informatics Centre (NIC)</b> — based in <b>New Delhi, India</b>; worked on API design, system architecture, and ML workflows.</li>
+<li>🌱 Currently exploring <b>Generative AI</b> and <b>Agentic AI</b></li> <li>🤝 Strong believer in <b>open-source collaboration</b> and building tools that solve real-world problems.</li> </ul>
 
 
 ---
